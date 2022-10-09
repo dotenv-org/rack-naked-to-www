@@ -1,11 +1,11 @@
-# Rack::Naked::To::Www
+# Rack::NakedToWww
 
 ## Usage
 
 Add to your Gemfile
 
 ```ruby
-gem "rack-www-enforcer"
+gem "rack-naked-to-www"
 ```
 
 Add to `config/application.rb`
